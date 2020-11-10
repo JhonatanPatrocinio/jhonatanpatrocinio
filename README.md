@@ -27,4 +27,4 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/jhonatan-patrocinio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/jhonsantos04/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram"></a>
-
+<a href="https://www.twitter.com/jhonatansantoos/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter"></a>
