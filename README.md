@@ -1,13 +1,21 @@
-<h2> Olá ... 👋 </h2>
+<h2>{{ Hi there }} 👋 </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonatanpatrocinio" alt="jhonatanpatrocinio" />
 
 
 <h3>Education</h3>
+
     - 🎓 Sistemas de Informação - UFAC
 
 <h3>Experiences</h3>
-    - 💼 Desenvolvedor Backend na @AltF4Devs
+
+    - 💼 Web Developer Backend at @AltF4Devs
+
+<h3>Programming Contests</h3>
+
+    - II Maratona de Programação do Norte (2018)
+    - XXIII Maratona de Programação da SBC (2018)
+    - XXIV Maratona de Programação da SBC (2019)
 
 <br>
 <br>
