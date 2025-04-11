@@ -5,8 +5,6 @@
 
 <p><em>Software Developer at @InCicle and @AltF4Devs</em></p>
 
-<h3>Education</h3>
-    - 🎓 Bachelor's Degree in Information Systems at UFAC
 </em></p>
 <hr/>
 
